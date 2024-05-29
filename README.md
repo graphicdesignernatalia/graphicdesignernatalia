@@ -17,6 +17,9 @@
 
 📬 Puedes contactarme a través de mi correo electrónico:  natalia.msv.deni@gmail.com
 
+<br>
+<br>
+
 ## Proyecto *Banco Solar (simulación de transferencias bancarias)*
 <table>
 <tr>
