@@ -13,7 +13,7 @@
 
 🌟 Estoy buscando oportunidades para colaborar en proyectos innovadores y creativos. Mi formación y mi pasión por el diseño y el desarrollo web me convierten en una candidata ideal para cualquier equipo dinámico y en crecimiento.
 
-📞 ¿Por qué deberían contactarme? Porque estoy comprometida con la excelencia, tengo una mentalidad de aprendizaje continuo y estoy lista para enfrentar nuevos desafíos. Estoy segura de que puedo aportar valor a tu equipo con mi combinación única de habilidades en diseño gráfico y desarrollo web.
+📞 ¿Por qué deberías contactarme? Porque estoy comprometida con la excelencia, tengo una mentalidad de aprendizaje continuo y enfrento nuevos desafíos con disponibilidad, entusiasmo y responsabilidad. Estoy segura de que puedo aportar valor a tu equipo con mi combinación en diseño gráfico profesional y habilidades en desarrollo web.
 
 📬 Puedes contactarme a través de mi correo electrónico:  natalia.msv.deni@gmail.com
 
