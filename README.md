@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-👋 ¡Hola! Soy Natalia Farías, soy diseñadora gráfica profesional, vivo en Santiago de Chile y amo programar.
+👋 ¡Hola! Soy Natalia Farías, soy diseñadora gráfica profesional, vivo en Santiago de Chile y me gusta mucho programar.
 
 🎓 Actualmente estoy cursando la Tecnicatura Universitaria en Desarrollo Web en la Universidad de Entre Ríos, Argentina. Además, he completado un BootCamp de Full Stack JavaScript, donde he adquirido habilidades avanzadas en tecnologías como HTML, CSS, JavaScript, Bootstrap, Node.js, entre otras.
 
@@ -15,7 +15,7 @@
 
 📞 ¿Por qué deberías contactarme? Porque estoy comprometida con la excelencia, tengo una mentalidad de aprendizaje continuo y enfrento nuevos desafíos con disponibilidad, entusiasmo y responsabilidad. Estoy segura de que puedo aportar valor a tu equipo con mi combinación en diseño gráfico profesional y habilidades en desarrollo web.
 
-📬 Puedes contactarme a través de mi correo electrónico:  natalia.msv.deni@gmail.com
+📬 Puedes contactarme a través de mi correo electrónico:  n.nataliafariasm@gmail.com
 
 <br>
 <br>
