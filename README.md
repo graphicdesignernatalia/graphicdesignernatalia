@@ -7,7 +7,7 @@
 
 👋 ¡Hola! Soy Natalia Farías, soy diseñadora gráfica profesional, vivo en Santiago de Chile y me gusta mucho programar.
 
-🎓 Actualmente estoy cursando la Tecnicatura Universitaria en Desarrollo Web en la Universidad de Entre Ríos, Argentina. Además, he completado un BootCamp de Full Stack JavaScript, donde he adquirido habilidades avanzadas en tecnologías como HTML, CSS, JavaScript, Bootstrap, Node.js, entre otras.
+🎓 Estudié un semestre desarrollo web en la Universidad de Entre Ríos, Argentina. Además, he completado un BootCamp de Full Stack JavaScript, donde he adquirido habilidades avanzadas en tecnologías como HTML, CSS, JavaScript, Bootstrap, Node.js, entre otras.
 
 💻 Aunque aún no tengo experiencia en desarrollo web en una empresa, he trabajado en varios proyectos que puedes explorar en mi repositorio de GitHub. Cada proyecto refleja mi dedicación y mi capacidad para aprender y aplicar nuevas tecnologías rápidamente.
 
