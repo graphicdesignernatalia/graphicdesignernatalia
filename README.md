@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="[https://www.linkedin.com/in/natalia-farias-graphicd]">Natalia Farías</a>👋</h1>
-   <br>
+
    https://graphicdesignernatalia.github.io/portafolio_natalia_farias/
+      <br>
 </div>
 <img src="https://i.imgur.com/yjaUO0F.png">
 
