@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/yjaUO0F.png">
 
-## Sobre mi
+## Sobre mí
 
 👋 ¡Hola! Soy Natalia Farías, soy diseñadora gráfica profesional, vivo en Santiago de Chile y me gusta mucho programar.
 
@@ -16,7 +16,8 @@
 📞 ¿Por qué deberías contactarme? Porque estoy comprometida con la excelencia, tengo una mentalidad de aprendizaje continuo y enfrento nuevos desafíos con disponibilidad, entusiasmo y responsabilidad. Estoy segura de que puedo aportar valor a tu equipo con mi combinación en diseño gráfico profesional y habilidades en desarrollo web.
 
 📬 Puedes contactarme a través de mi correo electrónico:  n.nataliafariasm@gmail.com
-
+   Mi portafolio se encuentra en el siguiente link: https://graphicdesignernatalia.github.io/portafolio_natalia_farias/
+   
 <br>
 <br>
 
